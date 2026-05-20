@@ -2,7 +2,7 @@
 #### Software Engineer | Developer | Wordpress Expert
 I'm Al Islam. I studied Computer Science and Engineering. Today, I am a professional developer with 2 years of experience and a passion for web development. I am highly skilled at WordPress, Shopify, and Custom website design.
 
-Skills: C++| PHP |  JS |HTML | CSS | Wordpress
+Skills: C++| PHP |  JS |HTML | CSS | Wordpress | Shopify
 
 - 🔭 I’m currently working on PHP 
 - 🌱 I’m currently learning Laravel 
