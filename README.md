@@ -4,9 +4,6 @@ I'm Al Islam. I studied Computer Science and Engineering. Today, I am a professi
 
 Skills: C++| PHP |  JS |HTML | CSS | Wordpress | Shopify
 
-- 🔭 I’m currently working on PHP 
-- 🌱 I’m currently learning Laravel 
-- 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: shikderalislam@gmail.com | +8801832828601 
 
 
